@@ -1,5 +1,0 @@
-tup=('a','b','c','d')
-print(tup)
-print(tup[0:])
-print(tup.index('c'))
-print(tup.count('c'))
